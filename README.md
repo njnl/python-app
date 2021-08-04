@@ -1,1 +1,1 @@
-# pythpn-app
+# python-app
