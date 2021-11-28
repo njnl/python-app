@@ -7,4 +7,4 @@ else:
           
           
 
-          hello- merhaba
+          hello- merhaba- bu da githubda yapılan değişiklik
