@@ -7,4 +7,4 @@ else:
           
           
 
-          hello- merhaba- bu da githubda yapılan değişiklik
+          hello- merhaba- bu da githubda yapılan değişiklik bir daha yapıldı
