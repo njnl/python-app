@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 herhangi bir satır ekledik
 
-herşey güzel olacak " meral branchınde yapıldı "
+
+=======
+herhangi bir satır ekledik 
+bir kaç satırlık işlem github üzerinden yapıldı "
+>>>>>>> dev
