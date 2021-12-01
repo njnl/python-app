@@ -5,6 +5,7 @@ if(year%4==0 and year%100!=0 or year%400==0):
 else:
     print("The year isn't a leap year!)
           
+          print("bu eklemeyi git üzerinden yaptım.ali yazmıştır.")
           ali değiştirdi
           23-11-2021
           hello
