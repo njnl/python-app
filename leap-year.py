@@ -5,6 +5,3 @@ elif year%2==0:
     print("Bu satır lokal feature branch inde eklendi")
 :wqelse:
     print("The year isn't a leap year!)
-          
-          
-          hello
