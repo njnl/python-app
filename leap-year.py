@@ -6,4 +6,11 @@ else:
     print("The year isn't a leap year!)
           
           
-          hello
+hello
+
+# Farklı Leap Year Çözümü
+
+year=int(input("Enter year to be checked:"))
+import calendar
+is_leap = calendar.isleap(year)
+print(is_leap)
