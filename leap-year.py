@@ -14,3 +14,5 @@ year=int(input("Enter year to be checked:"))
 import calendar
 is_leap = calendar.isleap(year)
 print(is_leap)
+
+print(is_leap)
