@@ -1,1 +1,1 @@
-yedek dosyadir.
+yedek dosyasi.
