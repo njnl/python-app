@@ -10,3 +10,6 @@ else:
 
 
 ilk degisiklik
+
+
+ikicci degisiklik
